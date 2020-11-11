@@ -1,6 +1,6 @@
-# Livro de Receitas 
+# Livro de Receitas :man_cook:
 
 Ola! Bem vindo ao livro de receitas.
 
-- Strogonoff de Frango
+- Strogonoff de Frango :chicken:
 - Pave
